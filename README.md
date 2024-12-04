@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🇺🇦 | Lvivska Oblast
+🏫 | Drohobych Bohdan Lepky Scientific Lyceum
+👨‍💻 | Python, C#
+🪟/🐧
+ 
+
 <!--
 **olehm208/olehm208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
