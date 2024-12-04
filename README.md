@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🇺🇦 | Lvivska Oblast
-🏫 | Drohobych Bohdan Lepky Scientific Lyceum
-👨‍💻 | Python, C#
-🪟/🐧
+- 🇺🇦 | Lvivska Oblast
+- 🏫 | Drohobych Bohdan Lepky Scientific Lyceum
+- 👨‍💻 | Python, C#
+- 🪟/🐧
  
 
 <!--
